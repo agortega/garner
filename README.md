@@ -2,3 +2,9 @@
 [![Stories in In Progress](https://badge.waffle.io/CrowdVoyant/garner.png?label=In%20Progress&title=In%20Progress)](https://waffle.io/CrowdVoyant/CrowdVoyant.github.io)
 # garner
 Aggregate different sources of news stories.
+
+## Dependencies
+
+
+Follow pip instructions for `newspaper`.
+http://newspaper.readthedocs.io/en/latest/user_guide/install.html#distribute-pip
