@@ -1,4 +1,4 @@
-from newspaper import Article
+from newspaper import Article # http://newspaper-demo.herokuapp.com/
 
 
 
